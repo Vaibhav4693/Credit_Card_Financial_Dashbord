@@ -25,7 +25,6 @@ This Power BI **Credit Card Dashboard** provides insights into **credit card tra
 
 # Insights & Business Impact
 Helps identify high-spending customers
-Detects potential fraud using unusual spending patterns
 Analyzes credit utilization trends
 
 📌 Future Improvements
